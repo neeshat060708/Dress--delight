@@ -1,0 +1,43 @@
+body,
+html {
+	width: 100x;
+	height: 100x;
+	font-family: 'Castoro Titling', cursive;
+ background: url(laptop.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1 {
+	font-size: 3rem;
+	color: #6389af;
+
+}
+.buffer {
+	height: 5rem;
+}
+hr {
+	   margin: 20px auto;
+    color: #F05F44;
+    border: 3px solid #F05F44;
+    max-width: 65px;
+    opacity: 1;  
+}
+.btn {
+	font-weight: 700;
+	border-radius: 400px;
+	text-transform: lowercase;
+}
+.btn-primary {
+	background-color: #ee4b08;	
+    border-color: #ee4b08;
+}
+.btn-primary:hover {
+	background-color:  #ee4b08;
+	border-color:  #ee4b08;
+	border-width: 4px;
+}
+.btn-xl {
+	padding: 1rem 2rem;
+}
